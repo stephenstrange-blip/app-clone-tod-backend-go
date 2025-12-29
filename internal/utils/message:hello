@@ -1,0 +1,6 @@
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Date: Mon, 17 Nov 2025 08:42:18 GMT
+Content-Length: 45
+
